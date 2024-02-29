@@ -62,7 +62,7 @@ public:
         }
         else {
             std::cout << "Неверный ввод! Значение должно быть отличным от нуля.\n";
-            return false;
+            return num2;
         }
     }
 };
